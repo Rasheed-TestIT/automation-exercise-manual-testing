@@ -21,7 +21,7 @@ Most QA portfolios show a pile of test cases with no context. This one shows the
 | ---------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
 | 1. Test Discovery      | [`aex-01-test-discovery.md`](./aex-01-test-discovery.md)           | Exploratory notes on the application before formal test design             |
 | 2. Test Planning       | [`aex-02-test-plan.md`](./aex-02-test-plan.md)                     | Scope, objectives, environment, entry/exit criteria, risks                 |
-| 3. Test Specification  | [`aex-03-test-cases.xlsx`](./aex-03-test-cases.xlsx)               | 37 written test cases across registration, login, cart, checkout, and more |
+| 3. Test Specification  | [`aex-03-test-cases.xlsx`](./aex-03-test-specification.xlsx)               | 37 written test cases across registration, login, cart, checkout, and more |
 | 4. Test Execution      | [`aex-04-test-execution.xlsx`](./aex-04-test-execution.xlsx)       | Step-by-step execution log with actual results and Pass/Fail status        |
 | 5. Defect Management   | [`aex-05-defect-log.xlsx`](./aex-05-defect-log.xlsx)               | 8 defects with severity, priority, and reproduction steps                  |
 | 6. Test Summary Report | [`aex-06-test-summary-report.md`](./aex-06-test-summary-report.md) | Final results, key findings, and recommendations                           |
@@ -46,4 +46,4 @@ Full details and reproduction steps for each are in the [Defect Log](./aex-05-de
 
 ## About me
 
-Rasheed Ayokanmi — Certified Software Tester. [LinkedIn](www.linkedin.com/in/rasheed-ayokanmi-39651ba6) · [Email](ayokanmirasheed@gmail.com)
+Rasheed Ayokanmi — Certified Software Tester. [LinkedIn](https://www.linkedin.com/in/rasheed-ayokanmi-39651ba6) · [Email](mailto:ayokanmirasheed@gmail.com)
